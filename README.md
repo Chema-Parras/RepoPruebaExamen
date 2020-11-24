@@ -1,6 +1,6 @@
 # Mi Repo Mola con sus Txt.
 
-`` git clone https://github.com/Chema-Parras/RepoPruebaExamen.git
+`` git clone https://github.com/Chema-Parras/RepoPruebaExamen.git``
  
   446  cd RepoPruebaExamen
   

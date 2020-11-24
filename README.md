@@ -1,6 +1,6 @@
 # Mi Repo Mola con sus Txt.
 
- git clone https://github.com/Chema-Parras/RepoPruebaExamen.git
+`` git clone https://github.com/Chema-Parras/RepoPruebaExamen.git
  
   446  cd RepoPruebaExamen
   
@@ -104,7 +104,7 @@
   
   496  git checkout
   
-  497  git checkout main
+  497  git checkout main ``
   
   498  git log --graoh
   
